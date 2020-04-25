@@ -1,0 +1,2 @@
+These are modifications to the perl script of UIC to correction enumeration of the sequences when performing a lipophilicity file 
+generation in order to use the Rosetta membrane relaxatio and abinitio folding protocols i.e. *.lips4 file.
